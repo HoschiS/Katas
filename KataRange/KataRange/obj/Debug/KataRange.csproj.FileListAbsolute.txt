@@ -1,0 +1,9 @@
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\bin\Debug\KataRange.dll
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\bin\Debug\KataRange.pdb
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\bin\Debug\nunit.framework.dll
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\bin\Debug\nunit.mocks.dll
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\bin\Debug\pnunit.framework.dll
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\bin\Debug\nunit.framework.xml
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\obj\Debug\KataRange.dll
+C:\Users\d.wagner\Documents\Visual Studio 2010\Projects\KataRange\KataRange\obj\Debug\KataRange.pdb
